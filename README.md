@@ -1,1 +1,1 @@
-# Demo-Bankapp
+A simple Bank app
